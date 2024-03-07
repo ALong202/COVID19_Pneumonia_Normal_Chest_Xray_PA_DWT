@@ -1,1 +1,1 @@
-# COVID19_Pneumonia_Normal_Chest_Xray_PA_DWT
+# COVID19_Pneumonia_Normal_Chest_Xray_PA_USM
